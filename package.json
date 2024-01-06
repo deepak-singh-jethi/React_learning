@@ -1,0 +1,23 @@
+{
+  "name": "my-class-",
+  "version": "1.0.0",
+  "description": "this is my react class 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deepak-singh-jethi/React_learning.git"
+  },
+  "keywords": [],
+  "author": "Deepak singh jethi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deepak-singh-jethi/React_learning/issues"
+  },
+  "homepage": "https://github.com/deepak-singh-jethi/React_learning#readme",
+  "devDependencies": {
+    "parcel": "^2.11.0"
+  }
+}
